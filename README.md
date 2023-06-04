@@ -1,6 +1,6 @@
 # GitHub
 This a machine learning classification that I used Google teachable machine. I set a default class as an apple, banana, and an orange.
 
-Packages used:
-import cv2 as cv
-from cvzone.ClassificationModule import Classifier 
+## Packages used:
+ * import cv2 as cv
+ * from cvzone.ClassificationModule import Classifier 
